@@ -1,4 +1,4 @@
 ui-dev
 ======
 
-some HTML frontent development
+some HTML frontend development
